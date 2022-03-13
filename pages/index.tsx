@@ -1,10 +1,15 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
-  return <div>asdasasd121212</div>;
+  return (
+    <div>
+      <Head>
+        <title>NEXT SHOP | 홈</title>
+      </Head>
+      <div>메인 페이지 입니다.</div>
+    </div>
+  );
 };
 
 export default Home;
