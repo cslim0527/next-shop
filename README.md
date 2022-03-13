@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 모각코 스터디
 
-## Getting Started
 
-First, run the development server:
+## 스터디 목표
+FE재남 채널에서 진행하는 "무계획 무근본 라이브코딩" 내용을 토대로 합니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+개인적인 목표에 따라 라이브코딩에서 사용한 모듈 그대로 쓰지 않고 필요한 모듈로 대체하여 진행합니다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+최종 결과물은 채널에서 완성한것과 같은 프로젝트를 완성하는 것을 목표로 합니다.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 개인 목표
+- next.js
+- typescript
+- react-query
+- recoil
+- semantic ui
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+next.js를 사용하여 SSR과 SEO 최적화를 경험하며 typescript를 연습해보고
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+최근 관심이 많은 상태관리 라이브러리(react-query, recoil)를 통해
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+실무에 적용하기 위한 학습용 프로젝트를 완성하는것을 목표로 진행합니다.
